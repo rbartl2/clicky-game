@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Cards from "./components/Cards";
 import Footer from "./components/Footer";
-import Navbar from "./components/Navbar";
+import Header from "./components/Header";
 import Wrapper from "./components/Wrapper";
 import cards from "./cards.json";
 import "./App.css";
@@ -49,10 +49,7 @@ clickPicture = id => {
 render() {
   return (
     <div className="App">
-      <Navbar
-        score={this.state.score}
-        topScore={this.state.topScore}
-        />
+      <Header score={this.state.score} topScore={this.state.topScore}>Clicky Game</Header>
       <Wrapper>
         {this.state.cards.map(picture => (
           <Cards
