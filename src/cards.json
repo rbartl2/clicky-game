@@ -1,0 +1,48 @@
+[{
+    "id": 1,
+    "image": "./images/chocolate_lab.jpg"
+},
+{
+    "id": 2,
+    "image": "./images/doberman_pinscher.jpg"
+},
+{
+    "id": 3,
+    "image": "./images/english_bulldog.png"
+},
+{
+    "id": 4,
+    "image": "./images/german_shepherd.jpg"
+},
+{
+    "id": 5,
+    "image": "./images/golden_retriever.jpeg"
+},
+{
+    "id": 6,
+    "image": "./images/husky.jpg"
+},
+{
+    "id": 7,
+    "image": "./images/jack_russell.jpg"
+},
+{
+    "id": 8,
+    "image": "./images/king_charles.jpg"
+},
+{
+    "id": 9,
+    "image": "./images/labradoodle.jpg"
+},
+{
+    "id": 10,
+    "image": "./images/maltese.jpg"
+},
+{
+    "id": 11,
+    "image": "./images/scottish_terrier.jpg"
+},
+{
+    "id": 12,
+    "image": "./images/toy_poodle.jpg"
+}]
