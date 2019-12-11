@@ -16,15 +16,15 @@
 },
 {
     "id": 5,
-    "image": "./images/golden_retriever.jpeg"
+    "image": "./images/gold_retriever.jpg"
 },
 {
     "id": 6,
-    "image": "./images/husky.jpg"
+    "image": "./images/siberian_husky.jpg"
 },
 {
     "id": 7,
-    "image": "./images/jack_russell.jpg"
+    "image": "./images/terrier_tie.jpg"
 },
 {
     "id": 8,
@@ -32,11 +32,11 @@
 },
 {
     "id": 9,
-    "image": "./images/labradoodle.jpg"
+    "image": "./images/Chocolate-Labradoodle.jpg"
 },
 {
     "id": 10,
-    "image": "./images/maltese.jpg"
+    "image": "./images/maltese_3.jpg"
 },
 {
     "id": 11,
