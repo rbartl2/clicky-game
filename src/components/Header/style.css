@@ -1,0 +1,15 @@
+/* .title {
+
+    font-size: 2rem;
+}
+
+.scores {
+    float: right;
+    margin-right: 20px;
+} */
+
+.header {
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 2rem;
+}

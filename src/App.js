@@ -49,7 +49,7 @@ clickPicture = id => {
 render() {
   return (
     <div className="App">
-      <Header score={this.state.score} topScore={this.state.topScore}>Clicky Game</Header>
+      <Header score={this.state.score} topScore={this.state.topScore}>Clicky Game!</Header>
       <Wrapper>
         {this.state.cards.map(picture => (
           <Cards
