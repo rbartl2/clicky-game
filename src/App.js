@@ -45,11 +45,29 @@ clickPicture = id => {
   }
   
 }
+
+render() {
+  return (
+    <div className="App">
+      <Navbar
+        score={this.state.score}
+        topScore={this.state.topScore}
+        />
+      <Wrapper>
+        {this.state.cards.map(picture => (
+          <Cards
+            clickPicture={this.clickPicture}
+            id={picture.id}
+            key={picture.id}
+            image={picture.image}
+          />
+        ))}
+      </Wrapper>
+      <Footer />
+    </div>
+  )
 }
 
-
-
-
-
+};
 
 export default App;
